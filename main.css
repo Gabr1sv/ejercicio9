@@ -1,0 +1,108 @@
+/* Style all pages */
+
+.cabecero {
+    text-align: center;
+    list-style: none;
+    
+}
+
+li {
+    display: inline;
+    margin-left: 150px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+.caberoList1 {
+    margin-left: 25%;
+}
+
+.caberoList3 {
+    margin-right: 25%;
+}
+
+.cabeza {
+    text-decoration: none; 
+    padding: 20px 20px;
+    background-color: rgb(230, 61, 61);
+    border-radius: 20px;
+    color:rgb(0, 0, 0);
+}
+
+.cabeza:hover {
+    background-color: rgb(245, 113, 6);
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+section {
+    padding-top: 2%;
+}
+
+/* Style contact page */
+form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+input {
+    margin-top: 2%;
+    border: none;
+    border-bottom: 1px solid red;
+    text-align: center;
+}
+
+textarea {
+    margin-top: 1%;
+    border: 1px solid red;
+    text-align: center;
+}
+
+button {
+    margin-top: 1%;
+}
+
+input:focus-visible {
+    outline:none;
+}
+
+textarea:focus-visible {
+    outline:none;
+}
+
+.izquierda {
+    width: 49%;
+}
+.derecha {
+    width:50%;
+    margin-left: 50%;
+    margin-top: -1.37em;
+}
+.derecha2 {
+    width:50%;
+    margin-left: 50%;
+    margin-top: -1.55em;
+}
+/* Style index page */
+
+.card { 
+    transition: transform .2s;
+    width: 400px;
+    height: 200px;
+    margin: 2rem;
+  }
+  
+.card:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+h5 {
+    text-align: center;
+    
+}
