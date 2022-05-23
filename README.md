@@ -6,7 +6,7 @@
 | --------------- | --------------- | --------------- |
 | Contenido 1-1   | Contenido 1-2   | Contenido 1-3   |
 
-![texto_alternativo]([https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Text-x-readme.svg/1200px-Text-x-readme.svg.png](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg))
+![](https://user-images.githubusercontent.com/37955996/169879433-7932b40c-7ff3-4761-a70b-57d03ca3f7f9.png)
 
 *cursiva*
 
