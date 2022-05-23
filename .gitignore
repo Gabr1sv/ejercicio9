@@ -1,2 +1,3 @@
-# Ignora el archivo de estilos
+# Ignora el archivo de estilos y bootstrap
+bootstrap.min.css
 main.css
